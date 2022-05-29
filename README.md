@@ -1,9 +1,11 @@
 Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, eu sou o Cássio da Silva Souza
 
 
-- 👨🏼 🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-- 🌱 Atualmente estou aprendendo   inglês
+- 🌱 Atualmente estou aprendendo  inglês
+- 🎸 Músico guitarrista
+- 
 
 ## 🛠 &nbsp; Tecnologias Estudadas
 
