@@ -5,7 +5,7 @@ Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/
 
 - 🕵️‍♂️ Atualmente estou aprendendo  inglês
 - 🎸 Músico guitarrista
-- 💪🚴‍♀️  hobbies: malhação e cilicsmo
+- 💪🚴‍♀️  hobbies: malhação e ciclismo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassioguita)](https://github.com/cassiosouza/github-readme-stats)
 
@@ -21,7 +21,10 @@ Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/
   <br><br>
  <img align="center" alt="Git" heigth="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="VS Code" heigth="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img "center" alt="VS Code" heigth="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img "center" alt="Git" heigth="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+ <br><br>
+ <img "center" alt="VS Code" heigth="35" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+          
           
  </div>
 
@@ -29,12 +32,12 @@ Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/
 
 <div> 
   <a href="mailto:cassiosp1504@gmail.com">
-    <img align="center" alt="Email" height="30" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail&logoColor=white">
+    <img align="center" alt="Email" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.instagram.com/cassiofx30.souza/">
-    <img align="center" alt="Instagram" height="30" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=white">
+    <img align="center" alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
  <a href="https://www.linkedin.com/in/c%C3%A1ssio-da-silva-souza-53b177169/", >
- <img align="center" alt="LinkedIn" height="30" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white">
+ <img align="center" alt="LinkedIn" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
