@@ -1,4 +1,4 @@
-Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" largura="30em">, eu sou o Cássio da Silva Souza
+Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, eu sou o Cássio da Silva Souza
 
 
 - 👨🏼 🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
