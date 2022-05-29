@@ -3,7 +3,7 @@ Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/
 
 - 👨🏼 🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-- 🌱 Atualmente estou aprendendo inglês
+- 🌱 Atualmente estou aprendendo   inglês
 
 ## 🛠 &nbsp; Tecnologias Estudadas
 
