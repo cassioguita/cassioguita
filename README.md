@@ -1,7 +1,5 @@
 Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, eu sou o Cássio da Silva Souza
 
-gh repo clone vn7n24fzkq/github-profile-summary-cards
-
 
 - 👨🏼 🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
 
