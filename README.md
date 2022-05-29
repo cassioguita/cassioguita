@@ -7,7 +7,7 @@ Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/
 
 ## 🛠 &nbsp; Tecnologias Estudadas
 
-<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&langs_count=4&theme=github_dark">
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioguita&layout=compact&langs_count=4&theme=github_dark">
 <br>
 <div>
  <img align="center" alt="HTML5" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,6 +29,6 @@ Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/
     <img align="center" alt="Instagram" height="30" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=white">
   </a>
  <a href="https://www.linkedin.com/in/c%C3%A1ssio-da-silva-souza-53b177169/", >
- <img align="center" alt="LinkedIn" width="30" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white">
+ <img align="center" alt="LinkedIn" height="30" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white">
   </a>
 </div>
