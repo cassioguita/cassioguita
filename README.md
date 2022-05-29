@@ -7,7 +7,7 @@ Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/
 - 🎸 Músico guitarrista
 - 💪🚴‍♀️  hobbies: malhação e ciclismo
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassioguita)](https://github.com/cassiosouza/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassioguita&theme=github_dark)](https://github.com/cassiosouza/github-readme-stats)
 
 
 ## 🛠 &nbsp; Tecnologias Estudadas
