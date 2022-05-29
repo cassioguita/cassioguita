@@ -1,11 +1,14 @@
 Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, eu sou o Cássio da Silva Souza
 
-
+- 💼 Trabalhando atualmente em Industria / Logistica
 - 🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-- 🌱 Atualmente estou aprendendo  inglês
+- 🕵️‍♂️ Atualmente estou aprendendo  inglês
 - 🎸 Músico guitarrista
-- 
+- 💪🚴‍♀️  hobbies: malhação e cilicsmo
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassioguita)](https://github.com/cassiosouza/github-readme-stats)
+
 
 ## 🛠 &nbsp; Tecnologias Estudadas
 
@@ -14,12 +17,13 @@ Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/
 <div>
  <img align="center" alt="HTML5" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS3" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="JavaScript" height="38" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Git" heigth="40" width="55"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <br><br>
  <img align="center" alt="Git" heigth="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="VS Code" heigth="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  
-</div>
+  <img "center" alt="VS Code" heigth="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          
+ </div>
 
 ## 🔗 &nbsp; Links Sociais
 
