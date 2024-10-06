@@ -1,11 +1,11 @@
-Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, eu sou o Cássio da Silva Souza
+Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, Ola sou Cássio,
 
 - 💼 Trabalhando atualmente em Industria / Logistica
-- 🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduado em Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-- 🕵️‍♂️ Atualmente estou aprendendo  inglês
+- 🕵️‍♂️ Atualmente estou aprendendo Python
 - 🎸 Músico guitarrista
-- 💪🚴‍♀️  hobbies: malhação e ciclismo
+- 💪🚴‍♀️  hobbies: musculação e ciclismo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassioguita&theme=github_dark)](https://github.com/cassiosouza/github-readme-stats)
 
