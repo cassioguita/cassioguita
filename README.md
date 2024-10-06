@@ -1,9 +1,9 @@
 Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, Ola sou Cássio,
 
+- 🎓 Graduado em Superior Tecnólogo em Análise e Desenvolvimento de Sistema.
 - 💼 Trabalhando em minha transição de carreira de tecnologia.
-- 🎓 Graduado em Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 🕵️‍♂️ Atualmente estou aprendendo a linguagem Python
 
-- 🕵️‍♂️ Atualmente estou aprendendo linguagem Python
 - 🎸 Músico guitarrista
 - 💪🚴‍♀️  hobbies: musculação e ciclismo
 
