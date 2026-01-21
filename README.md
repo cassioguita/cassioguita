@@ -20,7 +20,7 @@
   <br><br>
  <img align="center" alt="Git" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="VS Code" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="Python" heigth="40" width="40" src="https://https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg />    
+<img align="center" alt="Python" heigth="40" width="40" src=https://raw.githubusercontent.com/cassioguita/cassioguita/f40fc6b45a85fe8067c998e9a1154e148bff59ea/python%20(2).svg />    
  </div>
 
 ## 🔗 &nbsp; Minhas redes Sociais
