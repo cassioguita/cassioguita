@@ -34,7 +34,7 @@ Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/
   <a href="mailto:cassiosp1504@gmail.com">
     <img align="center" alt="Email" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/cassiofx30.souza/">
+  <a href="https://[www.instagram.com/cassiofx30.souza](https://linktr.ee/cassioguita?utm_source=linktree_profile_share&ltsid=c7b87b2e-6fa9-4fda-8d06-6d723ff76b82)/">
     <img align="center" alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
  <a href="https://www.linkedin.com/in/c%C3%A1ssio-da-silva-souza-53b177169/", >
