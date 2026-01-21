@@ -14,7 +14,7 @@
 
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioguita&layout=compact&langs_count=4&theme=github_dark">
 <br>
-<div img align="center" width="200px"src="https:![Image](https://github.com/user-attachments/assets/1497293e-995d-4248-a56a-0c982e12e76b) />" 
+<div img align="center" width="200px"src="https:![Image](https://github.com/user-attachments/assets/1497293e-995d-4248-a56a-0c982e12e76b) width= 700px />" 
  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Java" heigth="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
