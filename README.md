@@ -20,8 +20,8 @@
 <img align="center" alt="Git" heigth="40" width="55"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <br><br>
  <img align="center" alt="Git" heigth="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" alt="VS Code" heigth="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   <img "center" alt="VS Code" heigth="35" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+ <img align="center" alt="VS Code" heigth="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+   <img "center" alt="VS Code" heigth="40" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
           
           
  </div>
