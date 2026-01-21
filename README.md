@@ -21,21 +21,20 @@
   <br><br>
  <img align="center" alt="Git" heigth="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="VS Code" heigth="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   
 <img align="center" alt="Python" heigth="40" width="55" src="https://raw.githubusercontent.com/cassioguita/cassioguita/3695a85ff750e97ff84c2c01287475d7e0db2304/python.svg" />
-           
+ <br><br>      
  </div>
-<br><br>
+
 ## 🔗 &nbsp; Minhas redes Sociais
 
 <div> 
   <a href="mailto:cassiosp1504@gmail.com">
-    <img align="center" alt="Email" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img align="center" alt="Email" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://[www.instagram.com/cassiofx30.souza](https://linktr.ee/cassioguita?utm_source=linktree_profile_share&ltsid=c7b87b2e-6fa9-4fda-8d06-6d723ff76b82)/">
-    <img align="center" alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img align="center" alt="Instagram" height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
  <a href="https://www.linkedin.com/in/c%C3%A1ssio-da-silva-souza-53b177169/", >
- <img align="center" alt="LinkedIn" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <img align="center" alt="LinkedIn" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
