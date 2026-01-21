@@ -22,8 +22,8 @@
  <img align="center" alt="Git" heigth="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="VS Code" heigth="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    
-          
-          
+<img align="center" alt=" Python" heigth="40"width="55"src=https://raw.githubusercontent.com/cassioguita/cassioguita/3695a85ff750e97ff84c2c01287475d7e0db2304/python.svg
+           
  </div>
 
 ## 🔗 &nbsp; Minhas redes Sociais
