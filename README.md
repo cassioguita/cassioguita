@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, Ola sou Cássio,tenho 36 anos e entusiasta por tecnologia. Seja muito bem vindo!
+ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em"> Ola sou Cássio, tenho 36 anos e entusiasta por tecnologia. Seja muito bem vindo!
 
 - 🎓 Graduado em Superior Tecnólogo em Análise e Desenvolvimento de Sistema com foco back end e automação de processos.
 - 💼 Trabalhando em minha transição de carreira de tecnologia.
