@@ -1,11 +1,11 @@
-Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, Ola sou Cássio,
+Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, Ola sou Cássio, Seja muito bem vindo!
 
-- 🎓 Graduado em Superior Tecnólogo em Análise e Desenvolvimento de Sistema.
+- 🎓 Graduado em Superior Tecnólogo em Análise e Desenvolvimento de Sistema com foco back end e automação de processos.
 - 💼 Trabalhando em minha transição de carreira de tecnologia.
-- 🕵️‍♂️ Atualmente estou aprendendo a linguagem Python
+- 🕵️‍♂️ Atualmente estou aprendendo a linguagem Python, Go.
 
 - 🎸 Músico guitarrista
-- 💪🚴‍♀️  hobbies: musculação e ciclismo
+- 💪🚴‍♀️  hobbies: musculação, games e tocar guitarrra.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassioguita&theme=github_dark)](https://github.com/cassiosouza/github-readme-stats)
 
@@ -21,14 +21,12 @@ Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/
   <br><br>
  <img align="center" alt="Git" heigth="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="VS Code" heigth="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img "center" alt="Git" heigth="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- <br><br>
- <img "center" alt="VS Code" heigth="35" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+   <img "center" alt="VS Code" heigth="35" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
           
           
  </div>
 
-## 🔗 &nbsp; Links Sociais
+## 🔗 &nbsp; Minhas redes Sociais
 
 <div> 
   <a href="mailto:cassiosp1504@gmail.com">
