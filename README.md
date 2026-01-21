@@ -12,29 +12,27 @@
 
 ## 🛠 &nbsp; Tecnologias Estudadas
 
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioguita&layout=compact&langs_count=4&theme=github_dark">
-<br>
-<div img align="center" width="200px"src="https:![Image](https://github.com/user-attachments/assets/1497293e-995d-4248-a56a-0c982e12e76b) width= 700px />" 
+
+<div align="left">
  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Java" heigth="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <br><br>
  <img align="center" alt="Git" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="VS Code" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="Python" heigth="40" width="40" src="https:![Image](https://github.com/user-attachments/assets/1497293e-995d-4248-a56a-0c982e12e76b) />
- <br><br>      
+<img align="center" alt="Python" heigth="40" width="40" src="https://https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg />    
  </div>
 
 ## 🔗 &nbsp; Minhas redes Sociais
 
-<div> 
+<div align="left"> 
   <a href="mailto:cassiosp1504@gmail.com">
     <img align="center" alt="Email" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://[www.instagram.com/cassiofx30.souza](https://linktr.ee/cassioguita?utm_source=linktree_profile_share&ltsid=c7b87b2e-6fa9-4fda-8d06-6d723ff76b82)/">
     <img align="center" alt="Instagram" height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
- <a href="https://www.linkedin.com/in/c%C3%A1ssio-da-silva-souza-53b177169/", >
+ <a href="https://www.linkedin.com/in/c%C3%A1ssio-da-silva-souza-53b177169 /">
  <img align="center" alt="LinkedIn" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
